@@ -29,8 +29,7 @@ This repository contains a **Java desktop application** for hotel operations (cu
 The app connects using `src/hotel/conn.java`:
 
 - URL: `jdbc:mysql:///hms`
-- Username: `root`
-- Password: `Sanju123#`
+- Username and password are currently hardcoded in `conn.java`
 
 Create the `hms` database in MySQL and update credentials in `conn.java` if your local setup differs.
 
