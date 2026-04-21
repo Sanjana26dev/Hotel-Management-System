@@ -54,3 +54,4 @@ Main class: `hotel.HotelManagementSystem` (defined in `nbproject/project.propert
 
 - This is a desktop GUI project, not a REST API service.
 - No automated tests are currently present in the repository.
+- For security, avoid committing hardcoded DB credentials; prefer environment variables or an external config file for local secrets.
