@@ -1,0 +1,6 @@
+com/hotel/room/service/RoomService.class
+com/hotel/room/RoomServiceApplication.class
+com/hotel/room/model/Room.class
+com/hotel/room/repository/RoomRepository.class
+com/hotel/room/dto/RoomRequest.class
+com/hotel/room/controller/RoomController.class

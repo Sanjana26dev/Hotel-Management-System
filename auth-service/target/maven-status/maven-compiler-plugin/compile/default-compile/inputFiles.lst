@@ -1,0 +1,10 @@
+/home/runner/work/Hotel-Management-System/Hotel-Management-System/auth-service/src/main/java/com/hotel/auth/AuthServiceApplication.java
+/home/runner/work/Hotel-Management-System/Hotel-Management-System/auth-service/src/main/java/com/hotel/auth/config/SecurityConfig.java
+/home/runner/work/Hotel-Management-System/Hotel-Management-System/auth-service/src/main/java/com/hotel/auth/controller/AuthController.java
+/home/runner/work/Hotel-Management-System/Hotel-Management-System/auth-service/src/main/java/com/hotel/auth/dto/LoginRequest.java
+/home/runner/work/Hotel-Management-System/Hotel-Management-System/auth-service/src/main/java/com/hotel/auth/dto/LoginResponse.java
+/home/runner/work/Hotel-Management-System/Hotel-Management-System/auth-service/src/main/java/com/hotel/auth/dto/RegisterRequest.java
+/home/runner/work/Hotel-Management-System/Hotel-Management-System/auth-service/src/main/java/com/hotel/auth/model/User.java
+/home/runner/work/Hotel-Management-System/Hotel-Management-System/auth-service/src/main/java/com/hotel/auth/repository/UserRepository.java
+/home/runner/work/Hotel-Management-System/Hotel-Management-System/auth-service/src/main/java/com/hotel/auth/security/JwtTokenProvider.java
+/home/runner/work/Hotel-Management-System/Hotel-Management-System/auth-service/src/main/java/com/hotel/auth/service/AuthService.java
